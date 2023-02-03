@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+#ready {
+	display: flex;
+	background-image: url("static/img/assets/Desk.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+#container {
+	margin: auto;
+}
