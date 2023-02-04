@@ -70,7 +70,7 @@ var play = {
 		//stores the path of the visual assets
 		var dir = 'static/img/assets/';
 		//loads the background image
-		game.load.image('bg', dir + 'background.png');
+		game.load.image('bg', dir + 'Background.png');
 		//loads post its for score and life tracking
 		game.load.image('postIt', dir + 'postIt.png');
 		game.load.image('ship', dir + 'playerShip1_red.png');	//stores the vehicle as a variable
